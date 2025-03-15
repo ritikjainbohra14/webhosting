@@ -1,7 +1,7 @@
 {
   "name": "fingerprinting",
   "version": "0.1.0",
-  "homepage": "https://ritikbohrajain14.io/webhosting",
+  "homepage": "https://ritikbohrajain14.github.io/webhosting",
   "private": true,
   "dependencies": {
     "@fingerprintjs/fingerprintjs": "^4.6.1",
